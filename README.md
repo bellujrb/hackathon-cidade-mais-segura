@@ -1,4 +1,4 @@
-# Detectify
+# Hackathon Cidade Mais Segura
 
 This project is a web application designed to analyze and visualize the perception of safety in urban areas. It uses a map-based interface to display heatmaps of crime data, allows for location evaluations, and provides AI-powered analysis and suggestions for improving urban safety.
 
